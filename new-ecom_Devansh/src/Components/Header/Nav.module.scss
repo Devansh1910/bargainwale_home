@@ -1,0 +1,79 @@
+@import "../../Styles/mixins";
+
+.nav {
+  user-select: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav ul {
+  display: flex;
+  align-items: center;
+}
+
+.nav ul li {
+  &:not(:last-child) {
+    margin-right: 30px;
+  }
+}
+
+@include medium {
+  .nav ul li {
+    &:not(:last-child) {
+      margin-right: 18px;
+      font-size: .9rem;
+    }
+  }
+}
+
+.nav ul li a {
+  padding: 2px 0;
+  color: var(--black);
+  position: relative;
+}
+
+.nav ul li a::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 1px;
+  background-color: var(--black);
+  opacity: 0;
+  transition: opacity .3s;
+}
+
+.nav ul li a[class=active]::before {
+  opacity: .5;
+}
+
+.nav ul li a:hover::before {
+  opacity: 1;
+}
+
+.searchBarLi {
+  margin-left: 10px; 
+}
+
+.searchContainer {
+  display: flex;
+  border-radius: 50px;
+  align-items: center;
+  border: 1pt solid rgb(162, 162, 162);
+  padding: 5px 10px;
+}
+
+.searchInput {
+  border: none;
+  outline: none;
+  padding: 8px;
+  width: 200px; // Adjust width as needed
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}

@@ -1,0 +1,42 @@
+.scrollTopButton, .whatsappButton {
+  position: fixed;
+  right: 30px;
+  background: #ff6e61;
+  font-size: 20px;
+  padding: 15px;
+  border-radius: 50%;
+  z-index: 5;
+  pointer-events: all;
+  transition: opacity .25s ease, background-color .25s;
+  border: 6px solid var(--white);
+
+  &.hide {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  &:hover {
+    background-color: #ff4d3d;
+  }
+}
+
+.scrollTopButton>svg, .whatsappButton>svg {
+  width: 20px;
+  height: 20px;
+  fill: var(--white);
+}
+
+.scrollTopButton {
+  bottom: 10px;
+}
+
+.whatsappButton {
+  bottom: 80px; // Normal position when visible
+  background: #25D366;
+  &:hover {
+    background-color: #1ebe51;
+  }
+  &.samePosition {
+    bottom: 10px; // Start at the same position as the scroll-to-top button
+  }
+}
