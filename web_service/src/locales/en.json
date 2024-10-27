@@ -1,0 +1,210 @@
+{
+  "Index": {
+    "meta_title": "Bargainwale",
+    "meta_description": "Streamline your business transactions and manage orders effortlessly with Bargainwale, the comprehensive platform for manufacturers, traders, and sellers."
+  },
+  "Navbar": {
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "product": "Product",
+    "docs": "Docs",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company"
+  },
+  "Hero": {
+    "follow_twitter": "Product of Reduxcorporation",
+    "title": "Empowering <important>Business Transactions,</important> Simplified.",
+    "description": "Automate order management, track billing deadlines, and unlock operational efficiency with Bargainwale's all-in-one business management solution.",
+    "primary_button": "Get Started",
+    "secondary_button": "Star on GitHub"
+  },
+  "Sponsors": {
+    "title": "Sponsored by"
+  },
+  "Features": {
+    "section_subtitle": "Features",
+    "section_title": "Unlock the Full Potential of Business Management",
+    "section_description": "Effortlessly manage transactions, deadlines, and analytics to streamline your business operations.",
+    "feature1_title": "Efficient Order Management",
+    "feature2_title": "Billing & Invoice Tracking",
+    "feature3_title": "Sales & Purchase Automation",
+    "feature4_title": "Comprehensive Analytics",
+    "feature5_title": "Real-Time Deadline Monitoring",
+    "feature6_title": "Secure & Scalable Platform",
+    "feature1_description": "Automate orders, manage bookings, and streamline your entire transaction process in one platform.",
+    "feature2_description": "Keep track of billing deadlines with automated reminders, avoiding costly penalties.",
+    "feature3_description": "Automate sales and purchase workflows to ensure smooth and timely transactions.",
+    "feature4_description": "Access detailed analytics to drive data-informed decision-making and optimize operations.",
+    "feature5_description": "Stay on top of deadlines and billing with real-time tracking and alerts.",
+    "feature6_description": "Ensure data security with AWS hosting and enjoy a user-friendly interface for seamless management."
+  },
+  "Pricing": {
+    "section_subtitle": "Explore Plans",
+    "section_title": "Flexible Pricing Plans for Every Business",
+    "section_description": "Choose the plan that best fits your business size and needs, with scalable solutions to grow alongside you.",
+    "button_text": "Get Started"
+  },
+
+  "PricingPlan": {
+    "basic_plan_name": "Basic",
+    "premium_plan_name": "Premium",
+    "enterprise_plan_name": "Enterprise",
+    "custom_plan_name": "Custom",
+
+    "basic_plan_description": "Essential tools for single-business operations, perfect for startups.",
+    "premium_plan_description": "Enhanced features for mid-size businesses needing advanced management tools.",
+    "enterprise_plan_description": "Tailored solutions with extensive customization and premium support for large-scale operations.",
+    "custom_plan_description": "Custom solutions tailored to your unique business needs.",
+
+    "basic_plan_feature_team_member": "Access to order and transaction tracking",
+    "basic_plan_feature_website": "Basic invoicing tools",
+    "basic_plan_feature_storage": "Secure data storage",
+    "basic_plan_feature_transfer": "Basic analytics dashboard",
+    "basic_plan_feature_email_support": "Single business management dashboard",
+
+    "premium_plan_feature_team_member": "Advanced order and transaction management",
+    "premium_plan_feature_website": "Automated billing reminders",
+    "premium_plan_feature_storage": "Enhanced data security",
+    "premium_plan_feature_transfer": "Advanced analytics and reports",
+    "premium_plan_feature_email_support": "Dashboard with multi-business support",
+
+    "enterprise_plan_feature_team_member": "Comprehensive management for all departments",
+    "enterprise_plan_feature_website": "Custom billing schedules",
+    "enterprise_plan_feature_storage": "Complete financial management suite",
+    "enterprise_plan_feature_transfer": "Integrated analytics and custom reporting",
+    "enterprise_plan_feature_email_support": "Priority support with a dedicated account manager",
+
+    "custom_plan_feature_flexibility": "Customizable features to meet specific requirements",
+    "custom_plan_feature_support": "Dedicated customer support",
+    "custom_plan_feature_scalability": "Solutions that grow with your business",
+    "custom_plan_feature_dedicated_manager": "Personalized account management",
+
+    "plan_interval_month": "month",
+    "plan_interval_year": "year",
+    "plan_interval_contact": "contact us",
+    "next_renew_date": "Your subscription renews on {date}",
+
+    "custom_pricing_button_text": "Contact Us"
+  },
+  "FAQ": {
+    "question1": "What is Bargainwale and how can it benefit my business?",
+    "answer1": "Bargainwale is an all-in-one SaaS platform designed to simplify business management for manufacturers, traders, and sellers. It offers real-time analytics, automated invoicing, and order tracking to streamline your operations and increase efficiency.",
+
+    "question2": "Can Bargainwale manage multiple businesses from a single dashboard?",
+    "answer2": "Yes, Bargainwale allows you to manage multiple businesses from a single dashboard, providing centralized control and monitoring across all your operations.",
+
+    "question3": "How does Bargainwale improve order and billing management?",
+    "answer3": "Bargainwale automates your order processing, tracks billing deadlines, and provides tools for seamless coordination, helping you avoid penalties and optimize transaction timelines.",
+
+    "question4": "Is Bargainwale secure?",
+    "answer4": "Absolutely. Bargainwale employs AWS-hosted security, regular data backups, and stringent access controls to ensure your data is safe and confidential.",
+
+    "question5": "What kind of analytics does Bargainwale offer?",
+    "answer5": "Bargainwale includes comprehensive analytics for transaction timelines, billing, and operational metrics, enabling data-driven decision-making.",
+
+    "question6": "Is there support for scaling up with Bargainwale?",
+    "answer6": "Yes, Bargainwale offers scalable solutions to support your business as it grows, with flexible plans that adjust to your evolving needs."
+  },
+  "CTA": {
+    "title": "Ready to Transform Your Business Management?",
+    "description": "Seamlessly manage orders, transactions, and analytics with Bargainwale's all-in-one solution.",
+    "button_text": "Contact us"
+  },
+  "Footer": {
+    "product": "Product",
+    "docs": "Docs",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company",
+    "terms_of_service": "Terms Of Service",
+    "privacy_policy": "Privacy Policy",
+    "designed_by": "Powered by <author>Reduxcorporation</author>"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "You do not have the permissions to perform this action"
+  },
+  "SignIn": {
+    "meta_title": "Sign in",
+    "meta_description": "Seamlessly sign in to your Bargainwale account with our user-friendly login process."
+  },
+  "SignUp": {
+    "meta_title": "Sign up",
+    "meta_description": "Effortlessly create a Bargainwale account through our intuitive sign-up process."
+  },
+  "DashboardLayout": {
+    "home": "Home",
+    "todos": "Todos",
+    "members": "Members",
+    "billing": "Billing",
+    "settings": "Settings"
+  },
+  "Dashboard": {
+    "meta_title": "Bargainwale Dashboard",
+    "meta_description": "Empowering Business Management, Simplified."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Welcome to the Bargainwale dashboard",
+    "message_state_title": "Let's get started",
+    "message_state_description": "Here will be the onboarding page",
+    "message_state_button": "Stripe Integration or Gateway Needed here to integrate."
+  },
+  "UserProfile": {
+    "title_bar": "User Profile",
+    "title_bar_description": "View and manage your user profile"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organization Management",
+    "title_bar_description": "Manage your organization"
+  },
+  "Billing": {
+    "title_bar": "Billing",
+    "title_bar_description": "Manage your billing and subscription",
+    "current_section_title": "Current Plan",
+    "current_section_description": "Adjust your payment plan to best suit your requirements",
+    "manage_subscription_button": "Manage Subscription"
+  },
+  "BillingOptions": {
+    "current_plan": "Current Plan",
+    "upgrade_plan": "Get Started"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Payment Confirmation",
+    "message_state_title": "Payment successful",
+    "message_state_description": "Your payment has been successfully processed. Thank you for your purchase!",
+    "message_state_button": "Go back to Billing"
+  },
+  "DataTable": {
+    "no_results": "No results."
+  },
+  "Todos": {
+    "title_bar": "Todo List",
+    "title_bar_description": "View and manage your todo list",
+    "add_todo_button": "New todo"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Open menu",
+    "edit": "Edit",
+    "delete": "Delete",
+    "title_header": "Title",
+    "message_header": "Message"
+  },
+  "AddTodo": {
+    "title_bar": "Add Todo",
+    "add_todo_section_title": "Create a new todo",
+    "add_todo_section_description": "Fill in the form below to create a new todo"
+  },
+  "EditTodo": {
+    "title_bar": "Edit todo",
+    "edit_todo_section_title": "Modify todo",
+    "edit_todo_section_description": "Fill in the form below to edit the todo"
+  },
+  "TodoForm": {
+    "title_label": "Title",
+    "title_description": "Enter a descriptive title for your todo.",
+    "message_title": "Message",
+    "message_description": "Enter a detailed message for your todo.",
+    "submit_button": "Submit"
+  }
+}
